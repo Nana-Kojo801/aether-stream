@@ -1,0 +1,7 @@
+aether_sessions.json
+downloads/
+payloads/
+.aether_history
+aether-stream
+aether-stream.exe
+*.exe
